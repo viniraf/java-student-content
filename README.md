@@ -1,2 +1,4 @@
-# java-student-content
-Contéudo de lógica de programação em Java passado no decorrer da matéria de Construção de Algoritmos - Facens 
+# Informações
+* Todo contéudo passado na matéria de Construção de Algoritmos | Facens - 1° Sem;
+* Slides, exemplos e todos exercícios feitos pelo professor Luciano Freire;
+* Todos os agradecimentos para este professor incrível.
